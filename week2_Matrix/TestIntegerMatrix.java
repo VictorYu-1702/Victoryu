@@ -1,4 +1,4 @@
-package com.java1;
+package matrix;
 
 public class TestIntegerMatrix {
 
